@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(../images/thenightmare.png);
+    background-size: 2300px;
+}
+
+.title{
+    font-size: 80px;
+    background-color: lawngreen;
+    
+}
+
+.subtitle {
+    font-size: 25px;
+    background-color: white;
+}
+
+p {
+    text-align: left;
+    font-size: 30px;
+}
+
+button {
+    font-size: 20px;
+}
